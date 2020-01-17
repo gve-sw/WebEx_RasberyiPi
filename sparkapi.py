@@ -3,7 +3,7 @@ import unirest
 import json
 
 #TBD change to dynamically detected bot key
-hard_key = 'Bearer MGVjZGIxYTItZmU2OS00OTcwLWE1NjItMjVmZjM0YmZmMTlmN2VmMTQ4OTctYTY4'
+hard_key = 'Bearer '
 
 class sparkapi:
 
